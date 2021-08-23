@@ -1,0 +1,15 @@
+#include<stdio.h>
+void area();
+int main()
+{
+volume();
+return0;
+}
+void area()
+int i,h;
+printf("enter the radius of height");
+scanf("%d",&height);
+volume of cylinder:3.14*r*r*h
+printf("volume of cylinder=%d",height);
+}
+
